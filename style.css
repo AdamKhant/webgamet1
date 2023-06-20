@@ -1,0 +1,9 @@
+body, html { height:80%; }
+canvas {
+    position:absolute;
+    width: 90%;
+    height: 90%;
+    border:1px solid #d3d3d3;
+    background-color: #78b7fa;
+    display: block;
+}
